@@ -123,7 +123,6 @@ const handleApiError = (error: any) => {
 const fetchZohoContacts = async (axiosInstance: any): Promise<ZohoContact[]> => {
     try {
         const response = await axiosInstance.get('/crm/v2/Contacts');
-        console.log(response.data.data, "response.data.data")
         return response.data.data;
     } catch (error) {
         return handleApiError(error);

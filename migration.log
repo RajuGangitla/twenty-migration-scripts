@@ -37,3 +37,13 @@
 {"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:10:57.999Z"}
 {"level":"info","message":"Processed batch 1","timestamp":"2024-10-30T11:10:59.010Z"}
 {"level":"info","message":"Migration completed successfully","timestamp":"2024-10-30T11:11:00.018Z"}
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T11:26:58.475Z"}
+{"level":"error","message":"API Error invalid oauth token","statusCode":401,"timestamp":"2024-10-30T11:26:58.950Z"}
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T11:31:33.991Z"}
+{"level":"info","message":"Fetched 12 tasks from Zoho CRM","timestamp":"2024-10-30T11:31:34.878Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2024-10-30T11:31:35.968Z"}
+{"level":"info","message":"Migration completed successfully","timestamp":"2024-10-30T11:31:36.981Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:32:13.329Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:32:14.288Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2024-10-30T11:32:15.516Z"}
+{"level":"info","message":"Migration completed successfully","timestamp":"2024-10-30T11:32:16.524Z"}

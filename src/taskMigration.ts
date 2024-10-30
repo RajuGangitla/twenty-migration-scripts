@@ -95,7 +95,6 @@ const fetchZohoTasks = async (axiosInstance: any): Promise<ZohoTask[]> => {
 // Twenty API functions
 const createTwentyTasks = async (axiosInstance: any, tasks: TwentyTask[]): Promise<void> => {
     try {
-        console.log(tasks, "tasks")
         await axiosInstance.post('/batch/tasks', tasks);
     } catch (error) {
         handleApiError(error);
