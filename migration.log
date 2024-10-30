@@ -1,0 +1,39 @@
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T10:28:17.706Z"}
+{"level":"info","message":"Fetched 12 tasks from Zoho CRM","timestamp":"2024-10-30T10:28:18.272Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T10:28:19.259Z"}
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T10:32:36.561Z"}
+{"level":"info","message":"Fetched 12 tasks from Zoho CRM","timestamp":"2024-10-30T10:32:37.070Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T10:32:37.706Z"}
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T10:33:44.063Z"}
+{"level":"info","message":"Fetched 12 tasks from Zoho CRM","timestamp":"2024-10-30T10:33:44.734Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T10:33:45.646Z"}
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T10:36:03.726Z"}
+{"level":"info","message":"Fetched 12 tasks from Zoho CRM","timestamp":"2024-10-30T10:36:04.239Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2024-10-30T10:36:05.236Z"}
+{"level":"info","message":"Migration completed successfully","timestamp":"2024-10-30T10:36:06.250Z"}
+{"level":"info","message":"Starting task migration...","timestamp":"2024-10-30T10:36:43.262Z"}
+{"level":"info","message":"Fetched 12 tasks from Zoho CRM","timestamp":"2024-10-30T10:36:43.860Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2024-10-30T10:36:45.946Z"}
+{"level":"info","message":"Migration completed successfully","timestamp":"2024-10-30T10:36:46.955Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T10:58:56.229Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T10:58:56.991Z"}
+{"level":"error","message":"API Error object 'contacts' not found. eg: companies","statusCode":400,"timestamp":"2024-10-30T10:58:57.503Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:05:40.777Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:05:41.487Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:05:42.441Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:05:56.092Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:05:56.779Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:05:57.394Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:07:42.867Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:07:43.725Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:07:44.333Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:08:19.164Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:08:19.799Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:08:20.639Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:09:05.070Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:09:05.768Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:09:06.395Z"}
+{"level":"info","message":"Starting contact migration...","timestamp":"2024-10-30T11:10:57.390Z"}
+{"level":"info","message":"Fetched 10 contacts from Zoho CRM","timestamp":"2024-10-30T11:10:57.999Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2024-10-30T11:10:59.010Z"}
+{"level":"info","message":"Migration completed successfully","timestamp":"2024-10-30T11:11:00.018Z"}

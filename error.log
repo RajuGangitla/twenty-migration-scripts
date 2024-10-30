@@ -1,0 +1,9 @@
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T10:28:19.259Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T10:32:37.706Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T10:33:45.646Z"}
+{"level":"error","message":"API Error object 'contacts' not found. eg: companies","statusCode":400,"timestamp":"2024-10-30T10:58:57.503Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:05:42.441Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:05:57.394Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:07:44.333Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:08:20.639Z"}
+{"level":"error","message":"API Error Request failed with status code 400","statusCode":400,"timestamp":"2024-10-30T11:09:06.395Z"}
